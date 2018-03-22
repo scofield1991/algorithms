@@ -1,0 +1,6343 @@
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 0 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+500 490 510 470 360 0 0 0 0 0 0 0 0 0 
+1010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+440 270 420 430 240 270 0 0 0 0 0 0 0 0 
+870
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+520 470 450 0 0 0 0 0 0 0 0 0 0 0 
+990
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 0 0 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+530 430 440 410 370 310 320 0 0 0 0 0 0 0 
+970
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+470 350 490 310 280 0 0 0 0 0 0 0 0 0 
+960
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+570 380 430 290 320 280 210 0 0 0 0 0 0 0 
+1000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 0 0 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 1 1 1 1 1 1 1 1 1 
+1 1 1 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+520 280 400 260 310 0 0 0 0 0 0 0 0 0 
+920
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 1 1 1 1 1 1 1 1 
+1 1 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+540 570 520 480 520 350 0 0 0 0 0 0 0 0 
+1110
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+400 360 250 0 0 0 0 0 0 0 0 0 0 0 
+760
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+470 480 450 0 0 0 0 0 0 0 0 0 0 0 
+950
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 0 1 1 1 1 1 1 
+1 1 1 1 1 1 1 0 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+570 530 350 390 370 400 370 360 0 0 0 0 0 0 
+1100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+500 510 410 360 320 0 0 0 0 0 0 0 0 0 
+1010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+1 1 1 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+540 530 510 390 350 390 320 320 260 0 0 0 0 0 
+1070
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+530 370 400 0 0 0 0 0 0 0 0 0 0 0 
+930
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 0 0 0 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+510 350 360 370 0 0 0 0 0 0 0 0 0 0 
+880
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+370 490 330 360 0 0 0 0 0 0 0 0 0 0 
+860
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+460 0 0 0 0 0 0 0 0 0 0 0 0 0 
+460
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 0 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+560 420 350 360 340 280 170 0 0 0 0 0 0 0 
+980
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 0 0 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+570 410 470 420 310 310 310 0 0 0 0 0 0 0 
+1040
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 1 1 1 1 1 1 1 
+1 1 0 0 0 0 0 1 1 1 1 1 1 1 
+1 1 1 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+530 490 500 450 390 440 0 0 0 0 0 0 0 0 
+1030
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 0 1 1 1 1 1 
+1 1 1 0 0 0 0 0 0 1 1 1 1 1 
+1 1 1 1 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+510 470 420 390 450 370 390 380 370 0 0 0 0 0 
+980
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 1 1 1 1 
+1 1 0 0 0 0 0 0 0 0 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+540 540 460 440 370 0 0 0 0 0 0 0 0 0 
+1080
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+520 490 440 0 0 0 0 0 0 0 0 0 0 0 
+1010
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+530 490 0 0 0 0 0 0 0 0 0 0 0 0 
+1020
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+500 520 460 420 0 0 0 0 0 0 0 0 0 0 
+1020
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+510 480 340 360 0 0 0 0 0 0 0 0 0 0 
+990
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 0 0 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+520 470 410 460 390 0 0 0 0 0 0 0 0 0 
+990
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+490 410 390 380 350 0 0 0 0 0 0 0 0 0 
+900
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 1 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+420 350 0 0 0 0 0 0 0 0 0 0 0 0 
+770
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+580 550 450 0 0 0 0 0 0 0 0 0 0 0 
+1130
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+380 390 460 500 370 330 0 0 0 0 0 0 0 0 
+960
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+500 470 470 0 0 0 0 0 0 0 0 0 0 0 
+970
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+450 350 340 0 0 0 0 0 0 0 0 0 0 0 
+800
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+530 500 440 330 340 0 0 0 0 0 0 0 0 0 
+1030
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+550 500 400 360 350 250 0 0 0 0 0 0 0 0 
+1050
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 0 0 0 0 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+560 540 400 440 0 0 0 0 0 0 0 0 0 0 
+1100
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+470 540 490 390 510 410 460 460 0 0 0 0 0 0 
+1050
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+470 520 290 450 320 0 0 0 0 0 0 0 0 0 
+990
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+460 430 490 510 400 310 0 0 0 0 0 0 0 0 
+1000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+440 540 460 390 0 0 0 0 0 0 0 0 0 0 
+1000
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 1 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+450 420 360 0 0 0 0 0 0 0 0 0 0 0 
+870
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+430 470 430 440 0 0 0 0 0 0 0 0 0 0 
+910
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+430 390 290 270 280 0 0 0 0 0 0 0 0 0 
+820
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+470 490 0 0 0 0 0 0 0 0 0 0 0 0 
+960
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 1 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+490 480 460 430 0 0 0 0 0 0 0 0 0 0 
+970
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+450 490 0 0 0 0 0 0 0 0 0 0 0 0 
+940
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 0 0 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 0 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 0 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+540 480 480 410 360 430 300 310 0 0 0 0 0 0 
+1020
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 0 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 0 1 1 1 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+440 420 460 460 410 290 0 0 0 0 0 0 0 0 
+920
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 0 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+440 340 360 370 290 0 0 0 0 0 0 0 0 0 
+810
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 0 0 0 0 0 0 0 0 1 1 1 1 1 
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+adjacennt: 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+540 440 0 0 0 0 0 0 0 0 0 0 0 0 
+980
